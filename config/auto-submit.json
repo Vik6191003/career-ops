@@ -1,0 +1,16 @@
+{
+  "auto_submit_grades": ["A", "B"],
+  "queue_for_review": ["C"],
+  "skip_grades": ["D", "F"],
+  "linkedin_daily_max": 10,
+  "batch_parallel_max_linkedin": 10,
+  "batch_parallel_max_other": 122,
+  "dry_run_default": true,
+  "resume_honesty_lock": true,
+  "min_score_for_pdf": 55,
+  "output_dir": "/root/career-ops/output",
+  "reports_dir": "/root/career-ops/reports",
+  "cv_source": "/root/career-ops/cv.md",
+  "profile_source": "/root/career-ops/config/profile.yml",
+  "scanner_config": "/root/career-ops/portals.yml"
+}

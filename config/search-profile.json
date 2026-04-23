@@ -1,0 +1,10 @@
+{
+  "search_terms": ["python developer", "AI engineer", "software developer"],
+  "locations": ["Tallahassee, FL", "Remote"],
+  "sites": ["linkedin", "indeed", "zip_recruiter", "google"],
+  "results_wanted": 20,
+  "hours_old": 48,
+  "linkedin_max_per_run": 20,
+  "linkedin_max_per_day": 200,
+  "country": "USA"
+}
